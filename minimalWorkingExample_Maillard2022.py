@@ -9,10 +9,6 @@ Created on Mon Jul 18 17:27:20 2022
 import surfacelayermodels_Maillard2022 as slm
 import numpy as np
 import matplotlib.pyplot as plt
-import recreatednoahmp as rnm
-import recreatedsurfacewrf as rsw
-from importlib import reload
-reload(rnm)
 
 #%% Test
 Ta      = 273.15 - 15.
